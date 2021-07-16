@@ -1,0 +1,11 @@
+.list-group-item button {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    justify-content: center;
+    text-align: center;
+}
+h1 {
+  
+  text-align: center;
+}
